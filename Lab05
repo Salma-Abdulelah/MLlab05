@@ -1,0 +1,25 @@
+    top_k = 3                                                    
+Unique Item_Name: 9
+Unique Item_Name_reduced: 4
+
+   Accuracy: 0.4018
+
+
+
+
+
+  top_k = 5  
+Unique Item_Name: 9
+Unique Item_Name_reduced: 6
+
+Accuracy: 0.3926
+
+
+
+
+
+ top_k = 6
+Unique Item_Name: 9
+Unique Item_Name_reduced: 7
+
+Accuracy: 0.3908
