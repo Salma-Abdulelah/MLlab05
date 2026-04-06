@@ -6,15 +6,11 @@ Unique Item_Name_reduced: 4
 
 
 
-
-
   top_k = 5  
 Unique Item_Name: 9
 Unique Item_Name_reduced: 6
 
 Accuracy: 0.3926
-
-
 
 
 
